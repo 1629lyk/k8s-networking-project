@@ -125,3 +125,8 @@ Tested on:
 - kubectl: v1.35.3
 - Calico: v3.27.0
 - etcd: v3.5.0
+
+---
+
+### Click to start with [Phase 1](phase1-environment-setup.md)
+
