@@ -8,7 +8,7 @@
 
 ## Why This Project
 
-Many engineering teams expect platform and network engineers to understand Kubernetes traffic paths and policy controls at a deep level — not just "deploy and hope." This project builds that understanding from scratch, layer by layer, with real packet captures and real failure documentation.
+Many engineering teams expect platform and network engineers to understand Kubernetes traffic paths and policy controls at a deep level — not just "deploy and hope." I built this project to understand from scratch, layer by layer, with real packet captures and real failure documentation.
 
 ---
 
@@ -125,3 +125,8 @@ Tested on:
 - kubectl: v1.35.3
 - Calico: v3.27.0
 - etcd: v3.5.0
+
+---
+
+### Click to start with [Phase 1](phase1-environment-setup.md)
+
